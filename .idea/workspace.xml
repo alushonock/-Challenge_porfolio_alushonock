@@ -43,7 +43,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python tests.pytest in framework.py">
+  <component name="RunManager" selected="Python tests.pytest for framework.Test">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="-Challenge_porfolio_alushonock" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for framework.Test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for framework.Test" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="-Challenge_porfolio_alushonock" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +114,7 @@
       <method v="2" />
     </configuration>
     <configuration name="pytest in test_cases" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="-Challenge_porfolio_pati" />
+      <module name="-Challenge_porfolio_alushonock" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -138,10 +138,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.__init__" />
-        <item itemvalue="Python tests.pytest for framework.Test" />
-        <item itemvalue="Python tests.pytest for framework.Test.test_print_nice_words" />
         <item itemvalue="Python tests.pytest in test_cases" />
+        <item itemvalue="Python tests.pytest for framework.Test.test_print_nice_words" />
+        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
