@@ -1,36 +1,34 @@
-+ Scout Panel
+- Scout Panel
 //*[@id="__next"]/form/div/div[1]/h5
 //*[text()="Scouts Panel"]
 //child::div/h5
 
-+ Login
+- Login
 //*[@id="login"]
 //*[text()="Login"]
 //child::div
 
-+ Password
+- Password
 //*[@id="password"]
 //*[text()="Password"]
 //child::div
 
-+ Remind password
+- Remind password
 //*[@id="__next"]/form/div/div[1]/a
 //*[text()="Remind password"]
 //child::div/a
 
-+ English
+- English
 //*[@id="__next"]/form/div/div[2]/div/div
 //*[text()="English"]
 //child::div
 
-+ Polski
+- Polski
 //*[@id="__next"]/form/div/div[2]/div/div
 //*[text()="Polski"]
 //child::div
 
-+ Sign In
+- Sign In
 //*[@id="__next"]/form/div/div[2]/button/span[1]
 //*[text()="Sign in"]
 //child::div
-
-
