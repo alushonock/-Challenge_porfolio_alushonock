@@ -11,10 +11,10 @@ Thirdly, all my life I dreamed of a husky. This is a social breed. There must be
 
 | Elements |1 Selector | 2 Selector | 3 Selector |
 | :---: | :---: | :---: | :---: |
-| Scout Panel | //*[@id="__next"]/form/div/div[1]/h5 | //*[text()="Scouts Panel"] | //child::div/h5 |
+| Scout Panel | //h5[contains(@class, 'MuiTypography')] | //*[text()="Scouts Panel"] | //child::div/h5 |
 | Login | //*[@id='login'] | //*[text()='Login'] | //child::div |
-| Remind password | //*[@id='__next']/form/div/div[1]/a | //*[text()='Remind password'] | //child::div/a |
-| English | //*[@id='__next']/form/div/div[2]/div/div | //child::div |//*[text()='English']|
+| Remind password | //a[contains(@class, 'MuiTypography')] | //*[text()='Remind password'] | //child::div/a |
+| English | //div[contains(@class, 'MuiSelect-root')] | //child::div |//*[text()='English']|
 | Polski | //*[@id='__next']/form/div/div[2]/div/div | //*[text()='Polski'] | //child::div |
-| Sign In | //*[@id='__next']/form/div/div[2]/button/span[1] | //*[text()='Sign in'] | //child::div |
+| Sign In | //span[contains(@class, 'MuiButton-label')] | //*[text()='Sign in'] | //child::div |
 
